@@ -1,0 +1,27 @@
+body{ 
+  margin:0;
+  padding:0
+}
+nav{
+  background-color:black;
+  height:50px;
+  display:flex;
+  justify-content:space-between;
+}
+nav a {
+  color:pink;
+  text-decoration:none;
+  margin:auto;
+}
+nav a:link{
+  color: beige;
+}
+nav a:visited {
+    color:green;
+}
+nav a:hover {
+  color:orange;
+}
+.galeria{
+  width:200px;
+}
